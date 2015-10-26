@@ -2,3 +2,4 @@
 avorozhev
 hello-world
 test
+local
